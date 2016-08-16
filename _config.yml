@@ -1,0 +1,14 @@
+name: Lynch syndrome
+layout_spectrum: 0.7059569615561482
+typography_spectrum: 0.9610010383268258
+color:
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+  brandStrength: 0.4721753022820354
+  lightness: 0.1698409113192576
+  saturation: 0.7430807030550102
+  rhythmicContrast: 0.7807136630989877
